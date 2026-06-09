@@ -1,0 +1,13 @@
+{
+  "itemGroup.mca3": "Example Mod Tab",
+  "block.mca3.example_block": "Example Block",
+  "item.mca3.example_item": "Example Item",
+
+  "mca3.configuration.title": "Minecraft Arma3 Configs",
+  "mca3.configuration.section.mca3.common.toml": "Minecraft Arma3 Configs",
+  "mca3.configuration.section.mca3.common.toml.title": "Minecraft Arma3 Configs",
+  "mca3.configuration.items": "Item List",
+  "mca3.configuration.logDirtBlock": "Log Dirt Block",
+  "mca3.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mca3.configuration.magicNumber": "Magic Number"
+}
