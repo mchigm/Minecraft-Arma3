@@ -58,3 +58,4 @@ Devpath:
 5. Integrate features with infrastructure
 6. Develop ecosystem around infrastructure
 7. Feature updates
+8. Support to other versions of mods and launchers
